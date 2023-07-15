@@ -83,6 +83,9 @@ text-decoration: none;
 }
 .main-title-text{
     color:#FFFFFF;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 .one-button{
 background-color:#4D5AE5;
