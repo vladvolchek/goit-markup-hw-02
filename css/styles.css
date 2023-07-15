@@ -75,11 +75,6 @@ text-decoration: none;
 }
 .main-section{
     background-color: #2E2F42;
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #ffffff;
 }
 .main-title-text{
     font-size: 56px;
@@ -97,13 +92,14 @@ text-decoration: none;
  line-height: 1.5;
  letter-spacing: 0.04em;
  color: #ffffff;
+ cursor: pointer;
 
 }
 .one-button:hover{
     background-color: #404BBF;
 }
 .one-button:focus{
- color: #404BBF;
+ background-color: #404BBF;
 }
 .button-title{
     color: #FFFFFF;
