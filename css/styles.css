@@ -3,6 +3,11 @@
     --slate:#434455; --navyblue: #2E2F42; --white:#FFFFFF; --iris: #4D5AE5;
     --cloud: #F4F4FD; -ocean: #404BBF;  
 }
+body{
+font-family: 'Roboto' sans-serif;
+color: #434455;
+background-color: #FFFFFF;
+}
 
 .header-logo-link{
     font-family: Raleway;
