@@ -61,8 +61,11 @@ text-align: left;
 color: #434455;
 text-decoration: none;
 }
-.header-address-link:hover{
+.header-address.link:hover{
     color:#404BBF ;
+}
+.header-address.link:focus{
+    color: #404BBF;
 }
 .address{
      font-style: normal;
