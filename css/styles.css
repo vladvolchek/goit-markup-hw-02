@@ -64,7 +64,10 @@ text-decoration: none;
 .header-address-link:hover{
     color:#404BBF ;
 }
-.header-address-list{
+.address{
+     font-style: normal;
+}
+.header-address.list{
     list-style: none;
 }
 .main-section{
