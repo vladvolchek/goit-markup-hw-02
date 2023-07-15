@@ -10,16 +10,18 @@ background-color: #FFFFFF;
 }
 
 .header-logo-link{
-    font-family: Raleway;
+    font-family:"Raleway", sans-serif;
  font-size: 18px;
- line-height: 1.16;
+ line-height: 1.17;
+ font-weight: 800;
  letter-spacing: 0.03em;
  text-align: left;
  color: #4D5AE5;
  text-decoration: none;
+ 
 }
-.header-menu-link link{
-    color:var()
+.header-menu-link.link{
+    text-transform: uppercase;
 }
 .header-logo-studio{
     font-family: Raleway;
