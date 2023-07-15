@@ -12,12 +12,11 @@ background-color: #FFFFFF;
 .header-logo.link{
     font-family:"Raleway", sans-serif;
  font-size: 18px;
-  line-height: 1.5;
-  font-weight: 500;
- letter-spacing: 0.02em;
+ line-height: 1.17;
+ font-weight: 800;
+ letter-spacing: 0.03em;
  text-align: left;
  color: #4D5AE5;
- color:var(#2E2F42);
  text-decoration: none;
  text-transform: uppercase;
 }
@@ -33,7 +32,7 @@ background-color: #FFFFFF;
  color: #2E2F42;
   text-decoration: none;
 }
-.header-menu-link{
+.header-menu.link{
 font-family: Roboto;
 font-size: 16px;
 font-weight: 500;
