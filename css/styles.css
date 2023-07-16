@@ -216,6 +216,9 @@ color:#F4F4FD;
 .section-button-list.list{
     list-style: none;
 }
+.button-item-all{
+    color: #4d5ae5;
+}
 .button-all{
 color:#404BBF;
 font-family: inherit;
