@@ -30,6 +30,7 @@ background-color: #FFFFFF;
  letter-spacing: 0.03em;
  text-align: left;
  color: #2E2F42;
+ color: #f4f4fd;
   text-decoration: none;
 }
 .header-menu.link{
@@ -202,6 +203,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: left;
+color:#F4F4FD;
 }
 .button-all{
 color:#404BBF;
