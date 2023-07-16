@@ -219,7 +219,7 @@ color:#F4F4FD;
     text-decoration: none;
 }
 .button-item-all{
-    color: var(#4d5ae5);
+    color: var(--iris);
 }
 .button-all{
 color:#404BBF;
