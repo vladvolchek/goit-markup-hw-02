@@ -217,7 +217,7 @@ color:#F4F4FD;
     list-style: none;
 }
 .button-item-all{
-    color: #4d5ae5;
+    color: var(#4d5ae5);
 }
 .button-all{
 color:#404BBF;
