@@ -151,8 +151,8 @@ color: #2E2F42;
 .section-item.list{
     list-style: none;
 }
-.team{
-    background-color: #F4F4FD;
+.team-section{
+    background-color: #FFFFFF;
 }
 .team-title{
 font-family: Roboto;
@@ -167,7 +167,8 @@ color:#2E2F42;
 .team-subtitle{
 font-family: Roboto;
 font-size: 20px;
-line-height: 1.5;
+font-weight: 500;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
