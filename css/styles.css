@@ -152,7 +152,7 @@ color: #2E2F42;
     list-style: none;
 }
 .team-section{
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 .team-title{
 font-family: Roboto;
@@ -172,6 +172,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
+background-color: #FFFFFF;
 }
 .team-text{
 font-family: Roboto;
@@ -182,7 +183,7 @@ text-align: center;
 color:#434455;
 
 }
-.team.list{
+.team-list.list{
     list-style: none;
 }
 .footer{
