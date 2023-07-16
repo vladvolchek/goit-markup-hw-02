@@ -225,6 +225,6 @@ cursor: pointer;
 .main-section-link{
     text-decoration: none;
 }
-.main-section-list{
+.main-section.list{
     list-style: none;
 }
