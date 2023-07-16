@@ -215,6 +215,7 @@ color:#F4F4FD;
 }
 .section-button-list.list{
     list-style: none;
+    text-decoration: none;
 }
 .button-item-all{
     color: var(#4d5ae5);
