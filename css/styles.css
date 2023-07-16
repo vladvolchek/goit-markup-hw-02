@@ -218,18 +218,17 @@ color:#F4F4FD;
     list-style: none;
     text-decoration: none;
 }
-.button-item-all{
-    color: var(--iris);
-}
-.button-all{
-color:var(--iris);
-font-family: inherit;
-font-size: 16px;
-font-weight: 500;
-line-height: 1.5;
-letter-spacing: 0.04em;
-background-color: #F4F4FD;
-cursor: pointer;
+
+
+.button-all {
+    color: #4D5AE5;
+    font-family:inherit;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: #f4f4fd;
+    cursor: pointer;
 }
 .button-all:hover{
     color: #FFFFFF; background-color: #404BBF;}
