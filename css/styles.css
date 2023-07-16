@@ -187,6 +187,9 @@ color:#434455;
 .team-list.list{
     list-style: none;
 }
+.team-list-section{
+    background-color: #FFFFFF;
+}
 .footer{
     background-color: #2E2F42;
 }
