@@ -30,7 +30,6 @@ background-color: #FFFFFF;
  letter-spacing: 0.03em;
  text-align: left;
  color: #2E2F42;
- color: #f4f4fd;
   text-decoration: none;
 }
 .header-menu.link{
@@ -73,6 +72,15 @@ text-decoration: none;
 }
 .header-address.list{
     list-style: none;
+}
+.header-logo-studio-footer.link{
+     font-family: Raleway;
+ font-size: 18px;
+ line-height: 1.16;
+ letter-spacing: 0.03em;
+ text-align: left;
+ color: #F4F4FD;
+  text-decoration: none;
 }
 .main-section{
     font-size: 56px;
