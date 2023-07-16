@@ -111,12 +111,11 @@ text-decoration: none;
 }
 .advantanges-title{
 font-family: Roboto;
-font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: left;
-color: var(#2E2F42);
+color: #2E2F42;
 
 }
 .advatanges-text{
